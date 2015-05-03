@@ -82,14 +82,20 @@
   <ItemGroup>
     <ClInclude Include="Islands.h" />
     <ClInclude Include="MiscHeader.h" />
+<<<<<<< HEAD
     <ClInclude Include="parseText.h" />
+=======
+>>>>>>> origin/master
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Islands.cpp" />
     <ClCompile Include="knapsack.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="parseText.cpp" />
+=======
+>>>>>>> origin/master
     <ClCompile Include="Queens.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

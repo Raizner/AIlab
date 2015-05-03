@@ -4,7 +4,10 @@
 #include "stdafx.h"
 #include "Islands.h"
 #include <stdarg.h>
+<<<<<<< HEAD
 #include "parseText.h"
+=======
+>>>>>>> origin/master
 
 int iteratorOfRuns=0;
 
@@ -97,10 +100,13 @@ int _tmain(int argc, _TCHAR* argv[])
 	2 - GENITOR
 
 	*/
+<<<<<<< HEAD
 	ParseText parser;
 
 	parser.parseTextLunch("C:\\temp\\freq.txt");
 
+=======
+>>>>>>> origin/master
 	Islands<knapsack> newIslands(3, 2000, 0.1f, 50, 0,0,1,1,1,2,1);
 
 	newIslands.evolve();

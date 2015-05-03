@@ -30,9 +30,12 @@
     <ClInclude Include="MiscHeader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="parseText.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+=======
+>>>>>>> origin/master
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -50,8 +53,11 @@
     <ClCompile Include="knapsack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="parseText.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+=======
+>>>>>>> origin/master
   </ItemGroup>
 </Project>
